@@ -1,8 +1,8 @@
-#Naming Conventinon
+# Naming Conventinon
 Herdan Wahyu Mairendra Pangestu
 3325600064
 
-##Latihan 1
+## Latihan 1
 Instalasi Autoformatter Flake8 dan Black Formatter
 <img width="1920" height="1080" alt="Screenshot (421)" src="https://github.com/user-attachments/assets/a1f73ad2-325a-453e-a511-c9b008a0e0eb" />
 <img width="828" height="154" alt="Screenshot 2026-06-05 193147" src="https://github.com/user-attachments/assets/5b4371e4-3cc3-4419-9afa-eef321d1b008" />
@@ -17,7 +17,7 @@ Menggunakan Flake8 instalasi via terminal menggunakan pip dan venv agar environt
 - FLake8 terdapat error (saya juga kurang paham kenapa karena jarang pakai autoformatter)
 - Black Formatter berhasil format 1 file
 
-##Latihan 2
+## Latihan 2
 | Baris | Kode Asli (Salah) | Kode Perbaikan (Benar) | Prinsip PEP 8 yang Dilanggar & Penjelasan |
 | :---: | :--- | :--- | :--- |
 | 1 | `class dtBrg:` | `class DataBarang:` | Nama *class* wajib menggunakan format **PascalCase**. Singkatan tidak baku mengurangi keterbacaan. |
